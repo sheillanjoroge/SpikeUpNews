@@ -1,4 +1,4 @@
-## SpikeUpNews
+# SpikeUpNews
 News aggregator that allows users to quickly and easily be in the know with reliable and up to date news from across the globe.
 
 ## By Sheilla Njoroge
