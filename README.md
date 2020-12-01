@@ -8,10 +8,15 @@ SpikeUpNews pulls data from the NewsApi and organzises the news in an easy and u
 
 ## Setup/Installation Requirements
 Clone the repo git clone https://github.com/sheillanjoroge/SpikeUpNews.git
+
 Move into the directory cd SpikeUpNews
+
 Create a virtual environment python -m venv virtual
+
 You need an API_KEY and SECRET_KEY to access the NEWSAPI.org's data. Create an account on their website if you do not have already.https://newsapi.org/register.
-Open start.sh file and replace what's inside the <> with your api and secret keys. (API_KEY from newsapi.org)
+
+Open start.sh file and replace what's inside the <> with both your api and secret keys. (API_KEY from newsapi.org)
+
 To run the application ./start.sh
 
 ## Known Bugs
