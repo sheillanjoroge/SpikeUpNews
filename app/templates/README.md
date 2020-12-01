@@ -1,10 +1,10 @@
-SpikeUpNews
+## SpikeUpNews
 News aggregator that allows users to quickly and easily be in the know with reliable and up to date news from across the globe.
 
 ## By Sheilla Njoroge
 
 ## Description
-Spravy pulls data from the NewsApi and organzises the news in an easy and user friendly way for users to go through.
+SpikeUpNews pulls data from the NewsApi and organzises the news in an easy and user friendly way for users to go through.
 
 ## Setup/Installation Requirements
 Clone the repo git clone https://github.com/sheillanjoroge/SpikeUpNews.git
