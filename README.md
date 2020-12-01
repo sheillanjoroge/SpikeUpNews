@@ -26,7 +26,7 @@ Flask
 Heroku
 
 ## Support and contact details
-Reach out to me over email sheilla.njoroge01@gmail.com
+Reach out to me over email sheilla.njoroge@gmail.com
 
 ## MIT License
 Copyright (c) 2020 SpikeUpNews
