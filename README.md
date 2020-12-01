@@ -15,7 +15,7 @@ Open start.sh file and replace what's inside the <> with your api and secret key
 To run the application ./start.sh
 
 ## Known Bugs
-There are no known bugs atm. Get in touch if you discover any.
+There are no known bugs atm. Get in touch if you discover any through my contacts below.
 
 ## Technologies Used
 HTML
